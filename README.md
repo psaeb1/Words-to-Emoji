@@ -13,4 +13,4 @@ Export the file as .ZIP
 
 ## Run the application
 
-Open index.html
+Open `index.html`
