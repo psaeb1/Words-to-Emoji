@@ -1,4 +1,4 @@
-## Time Tracking App
+## Words to Emoji
 
 [Demo](https://wordstoemojis.netlify.app)
 
